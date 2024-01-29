@@ -176,8 +176,6 @@ In Home view, all the views button will be available. User will land on specific
 - Marketing View
 - Supply chain View
 - Executive View
-- Products
-- Support
 
 ## Overall Report
 
@@ -205,10 +203,6 @@ In Home view, all the views button will be available. User will land on specific
 ## Executive View
 
 ![Executive.gif](https://github.com/AdiSriCode/Business-Insights-360/blob/main/Resources/Executive.gif)
-
-## Products
-
-![Products](https://github.com/AdiSriCode/Business-Insights-360/blob/main/Resources/Products%20View.gif)
 
 you can find the full report file here : [Report]()
 
